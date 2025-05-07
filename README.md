@@ -20,7 +20,7 @@ After several years working as a Front-end Engineer, I’ve shifted my career pa
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/agunggst/)
-- [Email: ig.agunggst@gmail.com](mailto:ig.agunggst@gmail.com)
+- Email: [ig.agunggst@gmail.com](mailto:ig.agunggst@gmail.com)
 
 ---
 
