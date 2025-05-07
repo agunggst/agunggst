@@ -7,10 +7,12 @@ After several years working as a Front-end Engineer, I’ve shifted my career pa
 
 ## 🔧 Tools & Technologies
 - **Languages:** Python, SQL, JavaScript
-- **Data Analysis & Manipulation:** Pandas, NumPy, BigQuery, MongoDB
-- **Visualization:** Matplotlib, Seaborn, Plotly
+- **Data Analysis & Manipulation:** Pandas, NumPy, Apache Spark
+- **Database**: BigQuery, MongoDB, MySQL, PostgreSQL, Elasticsearch
+- **Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Kibana
 - **Machine Learning & Deep Learning:** Scikit-learn, TensorFlow, PyTorch
-- **Others:** REST APIs, Streamlit, Docker, Git
+- **Large Language Model (LLM):** OpenAI API, HuggingFace API, LLM-finetuning
+- **Others:** REST APIs, Streamlit, Docker, Git, Apache Airflow
 
 ## 📂 Featured Projects
 <!-- Uncomment and add links to your best projects -->
@@ -18,6 +20,7 @@ After several years working as a Front-end Engineer, I’ve shifted my career pa
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/agunggst/)
+- [Email: ig.agunggst@gmail.com](mailto:ig.agunggst@gmail.com)
 
 ---
 
