@@ -17,6 +17,7 @@ After several years working as a Front-end Engineer, I’ve shifted my career pa
 ## 📂 Featured Projects
 <!-- Uncomment and add links to your best projects -->
 - 🔍 [ABANG – Shopee FAQs LLM-based Chatbot](https://github.com/agunggst/ABANG-Shopee-LLM-Chatbot)
+- 📈 [End to End ETL Pipeline - Data-Driven-Insights-for-Strategic-Restaurant-Decisions](https://github.com/agunggst/Data-Driven-Insights-for-Strategic-Restaurant-Decisions)
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/agunggst/)
