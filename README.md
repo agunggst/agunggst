@@ -1,6 +1,6 @@
 # Hi, I'm Agung 👋
 
-I'm a Software Engineer with 2+ years of experience in frontend development — now expanding into full stack and AI-powered applications. I enjoy building user-friendly products with clean code, efficient architecture, and a touch of creativity.
+I'm a Software Engineer with 4+ years of experience in frontend development — now expanding into full stack and AI-powered applications. I enjoy building user-friendly products with clean code, efficient architecture, and a touch of creativity.
 
 ## 💻 What I Do
 - 🧑‍💻 Frontend Development with React.js & Vue.js  
